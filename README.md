@@ -19,9 +19,9 @@ Suggested steps to completing this assignment
 3. Modify the program to check the temperature every 2 seconds. If the thermometer reads a temperature higher or lower than the previous maximum or minimum, update the appropriate variable
 4. Modify the display to scroll 3 temperatures; current, maximum and minimum. The A button should display all three temperatures in Celsius and the B button should display the same temperatures converted to Fahrenheit. 
 
-The Degree Symbol
+A technical note on the Degree Symbol °
 -----------------
-The degree symbol ° is not supported on the micro:bit. The micro:bit only supports ASCII characters 32 - 126 and the degree symbol ° is ASCII code 248. The asterix * or apostrophe ' are reasonable substitutes. (Note that the apostrophe ' is not the same as the single quote ' which has a special meaning in Python)
+The degree symbol ° is not supported on the micro:bit. The micro:bit only supports ASCII characters 32 - 126 and the degree symbol ° is ASCII code 248. The asterix * or apostrophe ' are reasonable substitutes. (Note that even though they look very similar the apostrophe ' is not the same as the single quote ' which has a special meaning in Python. Python treats them differently because they have different ASCII codes)
 
 Extensions
 ----------
