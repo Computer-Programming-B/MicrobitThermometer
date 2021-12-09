@@ -12,18 +12,18 @@ The temperature sensor measures the temperature of the processor chip that can b
 ![](thermometer2.png)   
 Try holding your finger on the chip and see if you can increase the temperature sensor reading.
 
+Program requirements
+-----------------
+* Your program must use at least two variables to store the maximum and minimum temperatures
+* Your program must display both Celsius and Fahrenheit temperatures
+* Every temperature displayed on the LED should be correctly labled as Celsius or Fahrenheit
+
 Suggested steps to completing this assignment
 ----------
 1. Using the program above as a guide, add code that displays the current temperature in Fahrenheit if the B button is pressed. You can do a google search to find the formula to convert Celisus to Fahrenheit
 2. Add variables to store the current maximum and minimum temperatures
 3. Modify the program to check the temperature every second. If the thermometer reads a temperature higher or lower than the previous maximum or minimum, update the appropriate variable
 4. Modify the display to scroll 3 temperatures; current, maximum and minimum. The A button should display all three temperatures in Celsius and the B button should display the same temperatures converted to Fahrenheit. 
-
-Program requirements
------------------
-* Your program must use at least two variables to store the maximum and minimum temperatures
-* Your program must display both Celsius and Fahrenheit temperatures
-* Every temperature displayed on the LED should be correctly labled as Celsius or Fahrenheit
 
 A technical note on the Degree Symbol °
 -----------------
