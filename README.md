@@ -21,6 +21,7 @@ Suggested steps to completing this assignment
 
 Program requirements
 -----------------
+* Your program must use at least two variables to store the maximum and minimum temperatures
 * Your program must display both Celsius and Fahrenheit temperatures
 * Every temperature should be correctly labled as Celsius or Fahrenheit
 
