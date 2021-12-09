@@ -1,4 +1,4 @@
-Microbit Thermometer
+micro:bit Thermometer
 --------------------
 In this assignment you will program your micro:bit using the built-in temperature sensor. Here is a simple program that displays the current temperature in Celsius when the A button is pressed:
 ```python
@@ -23,7 +23,7 @@ Extensions
 ----------
 You could modify your program to display a graph showing the relative current, maximum and minimum when neither button is pressed.
 
-**Are you hot?** Modify your program so that it tells a person how hot they are. Pass your MicroBit to your friends and see which one is hottest.
+**Are you hot?** Modify your program so that it tells a person how hot they are. Pass your micro:bit to your friends and see which one is hottest.
 
 Your thermometer program doesn't have to work or look like any other. Have fun and be creative!
 
