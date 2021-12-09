@@ -33,7 +33,7 @@ Extensions
 ----------
 You could modify your program to display a graph showing the relative current, maximum and minimum when neither button is pressed.
 
-**Are you hot?** Modify your program so that it tells a person how hot they are. Pass your micro:bit to your friends and see which one is hottest.
+**Are you hot?** Modify your program so that it tells a person how hot they are when they hold their finger on the processor. Pass your micro:bit to your friends and see which one is hottest.
 
 Your thermometer program doesn't have to work or look like any other. Have fun and be creative!
 
