@@ -25,6 +25,8 @@ You could modify your program to display a graph showing the relative current, m
 
 **Are you hot?** Modify your program so that it tells a person how hot they are. Pass your MicroBit to your friends and see which one is hottest.
 
+Your thermometer program doesn't have to work or look like any other. Have fun and be creative!
+
 Samples of Student Work
 ----------
 *none yet!*
