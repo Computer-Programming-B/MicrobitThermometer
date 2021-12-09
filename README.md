@@ -17,6 +17,7 @@ Suggested steps to completing this assignment
 
 Extensions
 ----------
+You could modify your program to display a graph showing the relative current, maximum and minimum when neither button is pressed.
 
 Samples of Student Work
 ----------
