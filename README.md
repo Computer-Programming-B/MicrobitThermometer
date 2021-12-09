@@ -8,7 +8,7 @@ while True:
     if button_a.was_pressed():
         display.scroll(temperature())
 ```
-The temperature sensor is a chip that can be found on the left hand side of the back of the micro:bit. The temperature sensor is circled in the picture below:      
+The temperature sensor is part of the processor chip that can be found on the left hand side of the back of the micro:bit. The chip is circled in the picture below:      
 ![](thermometer2.png)   
 Try holding your finger on the chip and see if you can increase the temperature sensor reading.
 
