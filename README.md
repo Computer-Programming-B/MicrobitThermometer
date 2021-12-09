@@ -19,6 +19,10 @@ Suggested steps to completing this assignment
 3. Modify the program to check the temperature every 2 seconds. If the thermometer reads a temperature higher or lower than the previous maximum or minimum, update the appropriate variable
 4. Modify the display to scroll 3 temperatures; current, maximum and minimum. The A button should display all three temperatures in Celsius and the B button should display the same temperatures converted to Fahrenheit. 
 
+The Degree Symbol
+-----------------
+The degree symbol ° is not supported on the micro:bit. The micro:bit only supports ASCII characters 32 - 126 and the degree symbol ° is ASCII code 248. The asterix * or single quote `\'` are reasonable substitutes.
+
 Extensions
 ----------
 You could modify your program to display a graph showing the relative current, maximum and minimum when neither button is pressed.
