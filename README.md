@@ -17,6 +17,7 @@ Program requirements
 * Your program must use at least two variables to store the maximum and minimum temperatures
 * Your program must display both Celsius and Fahrenheit temperatures
 * Every temperature displayed on the LED should be correctly labled as Celsius or Fahrenheit
+* Submit both the Python code and an animated gif showing your program running to Google Classroom
 
 Suggested steps to completing this assignment
 ----------
