@@ -21,7 +21,7 @@ Suggested steps to completing this assignment
 
 The Degree Symbol
 -----------------
-The degree symbol ° is not supported on the micro:bit. The micro:bit only supports ASCII characters 32 - 126 and the degree symbol ° is ASCII code 248. The asterix * or single quote `\'` are reasonable substitutes.
+The degree symbol ° is not supported on the micro:bit. The micro:bit only supports ASCII characters 32 - 126 and the degree symbol ° is ASCII code 248. The asterix * or apostrophe ' are reasonable substitutes. (Note that the apostrophe ' is not the same as the single quote ' which has a special meaning in Python)
 
 Extensions
 ----------
