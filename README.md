@@ -23,7 +23,7 @@ Program requirements
 -----------------
 * Your program must use at least two variables to store the maximum and minimum temperatures
 * Your program must display both Celsius and Fahrenheit temperatures
-* Every temperature should be correctly labled as Celsius or Fahrenheit
+* Every temperature displayed on the LED should be correctly labled as Celsius or Fahrenheit
 
 A technical note on the Degree Symbol °
 -----------------
