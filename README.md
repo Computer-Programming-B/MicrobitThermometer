@@ -27,7 +27,7 @@ Program requirements
 
 A technical note on the Degree Symbol °
 -----------------
-The degree symbol ° is not supported on the LED display o the micro:bit. The micro:bit LED display only supports ASCII characters 32 - 127 and the degree symbol ° is ASCII code 248. The asterix * or apostrophe ' are reasonable substitutes. (Note that even though they look very similar or even identical in some fonts, the apostrophe ' is not the same as the single quote ' which has a special meaning in Python. Python treats them differently because they have different ASCII codes.)
+The degree symbol ° is not supported on the LED display of the micro:bit. The micro:bit LED display only supports ASCII characters 32 - 127 and the degree symbol ° is ASCII code 248. The asterix * or apostrophe ' are reasonable substitutes. (Note that even though they look very similar or even identical in some fonts, the apostrophe ' is not the same as the single quote ' which has a special meaning in Python. Python treats them differently because they have different ASCII codes.)
 
 Extensions
 ----------
