@@ -8,6 +8,10 @@ while True:
     if button_a.was_pressed():
         display.scroll(temperature())
 ```
+The temperature sensor is a chip that can be found on the left hand side of the back of the micro:bit:   
+![](thermometer.png)   
+Try holding your finger on the chip and see if you can increase the temperature sensor reading.
+
 Suggested steps to completing this assignment
 ----------
 1. Using the program above as a guide, add code that displays the current temperature in Fahrenheit if the B button is pressed. You can do a google search to find the formula to convert Celisus to Fahrenheit
@@ -18,6 +22,8 @@ Suggested steps to completing this assignment
 Extensions
 ----------
 You could modify your program to display a graph showing the relative current, maximum and minimum when neither button is pressed.
+
+**Are you hot?** Modify your program so that it tells a person how hot they are. Pass your MicroBit to your friends and see which one is hottest.
 
 Samples of Student Work
 ----------
