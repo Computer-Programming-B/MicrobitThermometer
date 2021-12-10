@@ -10,7 +10,7 @@ while True:
 ```
 The temperature sensor measures the temperature of the processor chip that can be found on the left hand side of the back of the micro:bit. The processor is circled in the picture below:      
 ![](thermometer2.png)   
-Try holding your finger on the chip and see if you can increase the temperature sensor reading.
+Try holding your finger on the processor and see if you can increase the temperature sensor reading.
 
 Program requirements
 -----------------
