@@ -16,10 +16,13 @@ Program requirements
 -----------------
 * Your program must use at least two variables to store the maximum and minimum temperatures
 * Your program must display either Celsius or Fahrenheit temperatures depending on which button was pressed
+* Here's a sample video showing the Fahrenheit temperature when the B button is pressed:   
+![](fahrenheit.gif)   
 * Every temperature displayed on the LED should be correctly labled as Celsius or Fahrenheit
 * Submit both the Python code and an animated gif showing your program running to Google Classroom
 
-Suggested steps to completing this assignment
+Suggested steps to completing this 
+
 ----------
 1. Using the program above as a guide, add code that displays the current temperature in Fahrenheit if the B button is pressed. You can do a google search to find the formula to convert Celisus to Fahrenheit
 2. Add variables to store the current maximum and minimum temperatures
