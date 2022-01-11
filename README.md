@@ -18,7 +18,7 @@ Program requirements
 * Your program must display either Celsius or Fahrenheit temperatures depending on which button was pressed
 * Here's a sample video showing the current, maximum and minimum Fahrenheit temperatures when the B button is pressed:   
 ![](fahrenheit.gif)   
-* Every temperature displayed on the LED should be correctly labled as Celsius or Fahrenheit
+* Every temperature displayed on the LED should be correctly labled as Celsius or Fahrenheit (abbreviating °C and °F is fine)
 * Submit both the Python code and an animated gif showing your program running to Google Classroom
 
 Suggested steps to completing this 
