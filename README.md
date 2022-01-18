@@ -31,6 +31,7 @@ Suggested steps to completing this assignment
 A technical note on the Degree Symbol °
 -----------------
 The degree symbol ° is not supported on the LED display of the micro:bit. The micro:bit LED display only supports ASCII characters 32 - 127 and the degree symbol ° is ASCII code 248. The asterix * or apostrophe ' are reasonable substitutes. 
+
 Extensions
 ----------
 You could modify your program to display a graph showing the relative current, maximum and minimum when neither button is pressed.
