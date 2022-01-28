@@ -43,4 +43,4 @@ Your thermometer program doesn't have to work or look like any other. Have fun a
 
 Samples of Student Work
 ----------
-*none yet!*
+[Tennyson](TennysonThermometer.gif)   
