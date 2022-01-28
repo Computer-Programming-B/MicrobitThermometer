@@ -47,3 +47,4 @@ Samples of Student Work
 [McKayla](McKaylaThermometer.gif)   
 [Renzl](RenzlThermometer.gif)   
 [Sandy](SandyThermometer.gif)   
+[Ally](AllyThermometer.GIF)   
