@@ -48,3 +48,4 @@ Samples of Student Work
 [Renzl](RenzlThermometer.gif)   
 [Sandy](SandyThermometer.gif)   
 [Ally](AllyThermometer.GIF)   
+[Emerson](EmersonThermometer.gif)   
