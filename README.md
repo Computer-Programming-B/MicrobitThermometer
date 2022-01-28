@@ -46,3 +46,4 @@ Samples of Student Work
 [Tennyson](TennysonThermometer.gif)   
 [McKayla](McKaylaThermometer.gif)   
 [Renzl](RenzlThermometer.gif)   
+[Sandy](SandyThermometer.gif)   
