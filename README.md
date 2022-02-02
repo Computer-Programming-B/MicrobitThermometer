@@ -50,3 +50,4 @@ Samples of Student Work
 [Ally](AllyThermometer.GIF)   
 [Emerson](EmersonThermometer.gif)   
 [Breanna](BreannaThermometer.png)   
+[Omara](OmaraThermometer.gif)   
