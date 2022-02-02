@@ -49,3 +49,4 @@ Samples of Student Work
 [Sandy](SandyThermometer.gif)   
 [Ally](AllyThermometer.GIF)   
 [Emerson](EmersonThermometer.gif)   
+[Breanna](BreannaThermometer.png)   
